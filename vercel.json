@@ -22,9 +22,4 @@
       "dest": "/index.html"
     }
   ],
-  "functions": {
-    "index.html": {
-      "maxDuration": 10
-    }
-  }
 }
