@@ -1,0 +1,15 @@
+{
+  "name": "amazon-analyzer",
+  "version": "1.0.0",
+  "description": "Amazon产品分析器",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site, no build needed'",
+    "start": "echo 'Static site deployed'"
+  },
+  "keywords": ["amazon", "analyzer", "react"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
